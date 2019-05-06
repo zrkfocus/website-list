@@ -10,6 +10,7 @@
 [Scrimba](https://scrimba.com/)<br>
 
 [廖雪峰](https://www.liaoxuefeng.com/)<br>
+[阮一峰](http://www.ruanyifeng.com/)<br>
 [脚本之家](https://www.jb51.net/)<br>
 [25学堂-专注APP,网站UI界面设计,分享移动互联网优秀产品,ui素材下载,网页模板下载,UI/UX设计](https://www.25xt.com/)<br>
 [求知久久 - 分享最新最流行最实用的 Web 前端与后端视频](https://www.qiuzhi99.com/)<br>
@@ -18,7 +19,7 @@
 [HTML5资源教程 | 分享HTML5开发资源和开发教程](https://www.html5tricks.com/)<br>
 
 [51Testing软件测试网-软件测试人的精神家园](http://www.51testing.com/html/index.html)<br>
-<a href="https://www.jianshu.com/ target="_blank">简书</a><br>
+[简书](https://www.jianshu.com/)<br>
 [西瓜播放器](http://h5player.bytedance.com/)<br>
 [前端里](http://www.yyyweb.com/)<br>
 [缙哥哥-分享缙哥哥的中医药心得、武术笔记、趣闻杂谈、软件破解、无损音乐、视频短片、技术教程、摄影图片、旅游攻略、购物优惠。](https://www.dujin.org/)<br>
