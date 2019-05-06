@@ -6,7 +6,7 @@
 <a href="https://segmentfault.com/" target="_blank">SegmentFault</a><br>
 [51CTO博客2.0-原创IT技术文章分享及交流平台](https://blog.51cto.com/)<br>
 [HTML5梦工场 – 助推 HTML5 在中国的发展](http://www.html5dw.com/)<br>
-[一个帮助开发者成长的社区](https://juejin.im/)<br>
+[一个帮助开发者成长的社区 掘金](https://juejin.im/)<br>
 [Scrimba](https://scrimba.com/)<br>
 
 [廖雪峰](https://www.liaoxuefeng.com/)<br>
