@@ -8,6 +8,7 @@
 [HTML5梦工场 – 助推 HTML5 在中国的发展](http://www.html5dw.com/)<br>
 [一个帮助开发者成长的社区 掘金](https://juejin.im/)<br>
 [Scrimba](https://scrimba.com/)<br>
+[从html、css到 js，WEB前端开发在线学习视频教程 - html中文网](https://www.html.cn/)<br>
 
 [廖雪峰](https://www.liaoxuefeng.com/)<br>
 [阮一峰](http://www.ruanyifeng.com/)<br>
