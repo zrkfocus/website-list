@@ -26,3 +26,9 @@
 [缙哥哥-分享缙哥哥的中医药心得、武术笔记、趣闻杂谈、软件破解、无损音乐、视频短片、技术教程、摄影图片、旅游攻略、购物优惠。](https://www.dujin.org/)<br>
 
 [Hexo 快速、简洁且高效的博客框架](https://hexo.io/zh-cn/)
+[China 简体中文 — WordPress](https://cn.wordpress.org/)
+[Jekyll • Simple, blog-aware, static sites | Transform your plain text into static websites and blogs](https://jekyllrb.com/)
+[VuePress](https://vuepress.vuejs.org/zh/)
+[Stack Overflow - Where Developers Learn, Share, & Build Careers](https://stackoverflow.com/)
+[微信小程序开发_微信小程序开发教程 - 51小程序](http://html51.com/)
+[ProcessOn - 免费在线作图，实时协作](https://www.processon.com/)
