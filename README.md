@@ -35,3 +35,6 @@
 
 [酷壳 – CoolShell.cn](https://coolshell.cn/)<br>
 [CODELF](https://unbug.github.io/codelf/)<br>
+[Smashing Magazine — For Web Designers And Developers — Smashing Magazine](https://www.smashingmagazine.com/)<br>
+[HD-Movie – 最新最热且支持在线播放的影视资源站](http://hdmovie.vip/)<br>
+
