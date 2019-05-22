@@ -37,4 +37,12 @@
 [CODELF](https://unbug.github.io/codelf/)<br>
 [Smashing Magazine — For Web Designers And Developers — Smashing Magazine](https://www.smashingmagazine.com/)<br>
 [HD-Movie – 最新最热且支持在线播放的影视资源站](http://hdmovie.vip/)<br>
+[清华大学 TUNA 协会 - Home](https://tuna.moe/)<br>
+[系统之家官网_最新Ghost XP Sp3系统_Windows7旗舰版-Win10系统下载](http://www.xitongzhijia.net/)<br>
+[Fedora中文社区 - fdzh.org](https://www.fdzh.org/)<br>
+[Electron | 使用 JavaScript, HTML 和 CSS 构建跨平台的桌面应用。](https://electronjs.org/)<br>
+[Free vector icons - SVG, PSD, PNG, EPS & Icon Font - Thousands of free icons](https://www.flaticon.com/)<br>
+
+
+
 
