@@ -43,6 +43,20 @@
 [Electron | 使用 JavaScript, HTML 和 CSS 构建跨平台的桌面应用。](https://electronjs.org/)<br>
 [Free vector icons - SVG, PSD, PNG, EPS & Icon Font - Thousands of free icons](https://www.flaticon.com/)<br>
 
+[Parcel 中文网](https://parceljs.org/)<br>
+[WebAssembly](https://webassembly.org/)<br>
+[语雀 - 专业的云端知识库](https://www.yuque.com/)<br>
+[Flutter中文网](https://flutterchina.club/)<br>
+[React Native 中文网 · 使用React来编写原生应用的框架](https://reactnative.cn/)<br>
+[WEEX](https://weex.apache.org/zh/)<br>
+[Remove Background from Image – remove.bg](https://www.remove.bg/)<br>
+[CKEditor | Smart WYSIWYG HTML editor | Collaborative rich text editor](https://ckeditor.com/)<br>
+[Atlaskit by Atlassian](https://atlaskit.atlassian.com/)<br>
+[webpack 中文文档 | webpack 中文网](https://www.webpackjs.com/)<br>
+[Yarn 中文文档](https://yarn.bootcss.com/)<br>
+[npm 中文文档](https://www.npmjs.com.cn/)<br>
+
+
 
 
 
